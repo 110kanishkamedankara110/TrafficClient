@@ -1,0 +1,10 @@
+com\phoenix\sensor\GpsTracker.class
+com\phoenix\gui\Home$1.class
+com\phoenix\sensor\TrafficLight.class
+com\phoenix\util\Locations.class
+com\phoenix\sensor\SpeedSensor.class
+com\phoenix\gui\Home.class
+com\phoenix\util\IotInterface.class
+com\phoenix\gui\Home$2.class
+com\phoenix\gui\Home$3.class
+com\phoenix\util\IotComponent.class
